@@ -1,3 +1,6 @@
 # AI-Based-Smart-PDF-Reader-and-Voice-Assistant
-This project is an intelligent system that reads PDF documents and converts their content into speech using AI technologies. It helps users easily understand and interact with documents through voice commands. The system improves accessibility, especially for visually impaired users and those who prefer audio-based learning.   
+This project is an intelligent system that reads PDF documents and converts their content into speech using AI technologies. It helps users easily understand and interact with documents through voice commands. The system improves accessibility, especially for visually impaired users and those who prefer audio-based learning.
+
+
+
 With the rapid growth of digital documents, reading large PDFs can be time-consuming and difficult. This project provides a smart solution by combining text extraction and voice synthesis to create an interactive reading experience. It allows users to listen to PDF content instead of reading it manually.
